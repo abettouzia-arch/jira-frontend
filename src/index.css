@@ -53,3 +53,10 @@ body {
   from { transform: scale(0.95); }
   to { transform: scale(1); }
 }
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  box-sizing: border-box;
+}
